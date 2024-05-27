@@ -14,9 +14,9 @@ import (
 )
 
 const (
-	projectID  = "718591994558"
-	bucketName = "miluabucket"
-	location   = "us-east1"
+	projectID  = "xxxxx"
+	bucketName = "xxxx"
+	location   = "xxxx"
 )
 
 type filenames []string
